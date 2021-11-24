@@ -1,0 +1,25 @@
+Comparing Crowd-Based, Game-Based, and Machine-Based Approaches in Initial Query and Query Refinement Tasks
+Diversifying Search Results Using Time - An Information Retrieval Method for Historians
+Exploiting Flickr Tags and Groups for Finding Landmark Photos
+Exploiting Information Needs and Bibliographics for Polyrepresentative Document Clustering
+Polyrepresentative Clustering: A Study of Simulated User Strategies and Representations
+Using a Task-Based Approach in Evaluating the Usability of BoBIs in an E-book Environment
+Applying the Divergence from Randomness Approach for Content-Only Search in XML Documents 
+A Comparative Experimental Assessment of a Threshold Selection Algorithm in Hierarchical Text Categorization
+Compressing Semistructured Text Databases
+Maximum Margin Ranking Algorithms for Information Retrieval
+Lo mejor de dos idiomas - Cross-Lingual Linkage of Geotagged Wikipedia Articles
+Corpus-Based Thesaurus Construction for Image Retrieval in Specialist Domains
+A Simple Linear Ranking Algorithm Using Query Dependent Intercept Variables
+Investigating Summarization Techniques for Geo-Tagged Image Indexing
+Passage Reranking for Question Answering Using Syntactic Structures and Answer Types
+Exploring Adaptive Window Sizes for Entity Retrieval
+A Framework for Argument Retrieval - Ranking Argument Clusters by Frequency and Specificity
+Towards an Argument Mining Pipeline Transforming Texts to Argument Graphs
+Ranking Arguments by Combining Claim Similarity and Argument Quality Dimensions
+Sample Driven Data Mapping for Linked Data and Web APIs
+Quality-Aware Ranking of Arguments
+Conference Indexing in Digital Libraries: A Ranking Model and Case Study on dblp
+Evaluating semantometrics from computer science publications
+FiLiPo: A Sample Driven Approach for Finding Linkage Points between RDF Data and APIs
+The ReCAP Corpus: A Corpus of Complex Argument Graphs on German Education Politics
