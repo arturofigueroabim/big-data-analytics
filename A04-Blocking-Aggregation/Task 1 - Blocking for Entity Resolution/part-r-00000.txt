@@ -1,0 +1,33 @@
+s1_Schmidt	Karen L. Schmidt
+s1_Schmidt	Jeanette P. Schmidt
+s1_Schmidt	T. M. Schmidt
+s1_Schmidt	Günter Schmidt
+s1_Schmidt	Güther Schmidt
+s1_Schmidt	K. L. Schmidt
+s1_Schmidt	Douglas Schmidt
+s1_Schmidt	Peter-Michael Schmidt
+s1_Schmidt	Bernd Schmidt
+s1_Schmidt	Guenther K. Schmidt
+s1_Schmidt	Tanja M. Schmidt
+s1_Schmidt	Douglas C. Schmidt
+s1_Schmidt	B. Schmidt
+s1_Schmidt	Stefan E. Schmidt
+s1_Schmidt	Rolfe R. Schmidt
+s1_Schmidt	Rolfe Schmidt
+s1_Schmidt	G. Schmidt
+s1_Schmidt	Jeanette Schmidt
+s1_Schmidt	D. Schmidt
+s1_Schmidt	Doug Schmidt
+s1_Schmidt	Heinz W. Schmidt
+s1_Schmidt	Heinz-Wilhelm Schmidt
+s1_Schmidt	Günther Schmidt
+s1_Schmidt	Thomas M. Schmidt
+s1_Schmidt	S. E. Schmidt
+s1_Schmidt	Tanja Schmidt
+s1_Schmidt	Heinz Schmidt
+s1_Schmidt	P. M. Schmidt
+s1_Schmidt	Karen Schmidt
+s2_DSchmidt	Douglas C. Schmidt
+s2_DSchmidt	Douglas Schmidt
+s2_DSchmidt	D. Schmidt
+s2_DSchmidt	Doug Schmidt
