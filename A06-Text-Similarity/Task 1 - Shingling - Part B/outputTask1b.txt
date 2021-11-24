@@ -1,0 +1,495 @@
+1 - Shingles: 
+sim( 0, 1)= 0,11 
+
+1 - Shingles: 
+sim( 0, 2)= 0,11 
+
+1 - Shingles: 
+sim( 0, 3)= 0,09 
+
+1 - Shingles: 
+sim( 0, 4)= 0,11 
+
+1 - Shingles: 
+sim( 0, 5)= 0,06 
+
+1 - Shingles: 
+sim( 0, 6)= 0,11 
+
+1 - Shingles: 
+sim( 0, 7)= 0,09 
+
+1 - Shingles: 
+sim( 0, 8)= 0,11 
+
+1 - Shingles: 
+sim( 0, 9)= 0,06 
+
+1 - Shingles: 
+sim( 0, 10)= 0,12 
+
+1 - Shingles: 
+sim( 1, 2)= 0,14 
+
+1 - Shingles: 
+sim( 1, 3)= 0,11 
+
+1 - Shingles: 
+sim( 1, 4)= 0,09 
+
+1 - Shingles: 
+sim( 1, 5)= 0,09 
+
+1 - Shingles: 
+sim( 1, 6)= 0,93 
+
+1 - Shingles: 
+sim( 1, 7)= 0,13 
+
+1 - Shingles: 
+sim( 1, 8)= 0,11 
+
+1 - Shingles: 
+sim( 1, 9)= 0,10 
+
+1 - Shingles: 
+sim( 1, 10)= 0,13 
+
+1 - Shingles: 
+sim( 2, 3)= 0,18 
+
+1 - Shingles: 
+sim( 2, 4)= 0,13 
+
+1 - Shingles: 
+sim( 2, 5)= 0,12 
+
+1 - Shingles: 
+sim( 2, 6)= 0,14 
+
+1 - Shingles: 
+sim( 2, 7)= 0,19 
+
+1 - Shingles: 
+sim( 2, 8)= 0,17 
+
+1 - Shingles: 
+sim( 2, 9)= 0,14 
+
+1 - Shingles: 
+sim( 2, 10)= 0,18 
+
+1 - Shingles: 
+sim( 3, 4)= 0,14 
+
+1 - Shingles: 
+sim( 3, 5)= 0,10 
+
+1 - Shingles: 
+sim( 3, 6)= 0,12 
+
+1 - Shingles: 
+sim( 3, 7)= 0,16 
+
+1 - Shingles: 
+sim( 3, 8)= 0,15 
+
+1 - Shingles: 
+sim( 3, 9)= 0,15 
+
+1 - Shingles: 
+sim( 3, 10)= 0,16 
+
+1 - Shingles: 
+sim( 4, 5)= 0,10 
+
+1 - Shingles: 
+sim( 4, 6)= 0,10 
+
+1 - Shingles: 
+sim( 4, 7)= 0,14 
+
+1 - Shingles: 
+sim( 4, 8)= 0,13 
+
+1 - Shingles: 
+sim( 4, 9)= 0,12 
+
+1 - Shingles: 
+sim( 4, 10)= 0,13 
+
+1 - Shingles: 
+sim( 5, 6)= 0,09 
+
+1 - Shingles: 
+sim( 5, 7)= 0,13 
+
+1 - Shingles: 
+sim( 5, 8)= 0,12 
+
+1 - Shingles: 
+sim( 5, 9)= 0,13 
+
+1 - Shingles: 
+sim( 5, 10)= 0,13 
+
+1 - Shingles: 
+sim( 6, 7)= 0,13 
+
+1 - Shingles: 
+sim( 6, 8)= 0,12 
+
+1 - Shingles: 
+sim( 6, 9)= 0,11 
+
+1 - Shingles: 
+sim( 6, 10)= 0,13 
+
+1 - Shingles: 
+sim( 7, 8)= 0,16 
+
+1 - Shingles: 
+sim( 7, 9)= 0,13 
+
+1 - Shingles: 
+sim( 7, 10)= 0,20 
+
+1 - Shingles: 
+sim( 8, 9)= 0,12 
+
+1 - Shingles: 
+sim( 8, 10)= 0,56 
+
+1 - Shingles: 
+sim( 9, 10)= 0,14 
+
+3 - Shingles: 
+sim( 0, 1)= 0,00 
+
+3 - Shingles: 
+sim( 0, 2)= 0,00 
+
+3 - Shingles: 
+sim( 0, 3)= 0,00 
+
+3 - Shingles: 
+sim( 0, 4)= 0,00 
+
+3 - Shingles: 
+sim( 0, 5)= 0,00 
+
+3 - Shingles: 
+sim( 0, 6)= 0,00 
+
+3 - Shingles: 
+sim( 0, 7)= 0,00 
+
+3 - Shingles: 
+sim( 0, 8)= 0,00 
+
+3 - Shingles: 
+sim( 0, 9)= 0,00 
+
+3 - Shingles: 
+sim( 0, 10)= 0,00 
+
+3 - Shingles: 
+sim( 1, 2)= 0,01 
+
+3 - Shingles: 
+sim( 1, 3)= 0,00 
+
+3 - Shingles: 
+sim( 1, 4)= 0,01 
+
+3 - Shingles: 
+sim( 1, 5)= 0,00 
+
+3 - Shingles: 
+sim( 1, 6)= 0,87 
+
+3 - Shingles: 
+sim( 1, 7)= 0,00 
+
+3 - Shingles: 
+sim( 1, 8)= 0,00 
+
+3 - Shingles: 
+sim( 1, 9)= 0,00 
+
+3 - Shingles: 
+sim( 1, 10)= 0,00 
+
+3 - Shingles: 
+sim( 2, 3)= 0,01 
+
+3 - Shingles: 
+sim( 2, 4)= 0,00 
+
+3 - Shingles: 
+sim( 2, 5)= 0,00 
+
+3 - Shingles: 
+sim( 2, 6)= 0,01 
+
+3 - Shingles: 
+sim( 2, 7)= 0,01 
+
+3 - Shingles: 
+sim( 2, 8)= 0,01 
+
+3 - Shingles: 
+sim( 2, 9)= 0,01 
+
+3 - Shingles: 
+sim( 2, 10)= 0,01 
+
+3 - Shingles: 
+sim( 3, 4)= 0,00 
+
+3 - Shingles: 
+sim( 3, 5)= 0,00 
+
+3 - Shingles: 
+sim( 3, 6)= 0,00 
+
+3 - Shingles: 
+sim( 3, 7)= 0,01 
+
+3 - Shingles: 
+sim( 3, 8)= 0,00 
+
+3 - Shingles: 
+sim( 3, 9)= 0,01 
+
+3 - Shingles: 
+sim( 3, 10)= 0,00 
+
+3 - Shingles: 
+sim( 4, 5)= 0,00 
+
+3 - Shingles: 
+sim( 4, 6)= 0,01 
+
+3 - Shingles: 
+sim( 4, 7)= 0,00 
+
+3 - Shingles: 
+sim( 4, 8)= 0,00 
+
+3 - Shingles: 
+sim( 4, 9)= 0,00 
+
+3 - Shingles: 
+sim( 4, 10)= 0,00 
+
+3 - Shingles: 
+sim( 5, 6)= 0,00 
+
+3 - Shingles: 
+sim( 5, 7)= 0,01 
+
+3 - Shingles: 
+sim( 5, 8)= 0,00 
+
+3 - Shingles: 
+sim( 5, 9)= 0,00 
+
+3 - Shingles: 
+sim( 5, 10)= 0,01 
+
+3 - Shingles: 
+sim( 6, 7)= 0,00 
+
+3 - Shingles: 
+sim( 6, 8)= 0,00 
+
+3 - Shingles: 
+sim( 6, 9)= 0,00 
+
+3 - Shingles: 
+sim( 6, 10)= 0,00 
+
+3 - Shingles: 
+sim( 7, 8)= 0,00 
+
+3 - Shingles: 
+sim( 7, 9)= 0,01 
+
+3 - Shingles: 
+sim( 7, 10)= 0,00 
+
+3 - Shingles: 
+sim( 8, 9)= 0,00 
+
+3 - Shingles: 
+sim( 8, 10)= 0,21 
+
+3 - Shingles: 
+sim( 9, 10)= 0,00 
+
+5 - Shingles: 
+sim( 0, 1)= 0,00 
+
+5 - Shingles: 
+sim( 0, 2)= 0,00 
+
+5 - Shingles: 
+sim( 0, 3)= 0,00 
+
+5 - Shingles: 
+sim( 0, 4)= 0,00 
+
+5 - Shingles: 
+sim( 0, 5)= 0,00 
+
+5 - Shingles: 
+sim( 0, 6)= 0,00 
+
+5 - Shingles: 
+sim( 0, 7)= 0,00 
+
+5 - Shingles: 
+sim( 0, 8)= 0,00 
+
+5 - Shingles: 
+sim( 0, 9)= 0,00 
+
+5 - Shingles: 
+sim( 0, 10)= 0,00 
+
+5 - Shingles: 
+sim( 1, 2)= 0,00 
+
+5 - Shingles: 
+sim( 1, 3)= 0,00 
+
+5 - Shingles: 
+sim( 1, 4)= 0,00 
+
+5 - Shingles: 
+sim( 1, 5)= 0,00 
+
+5 - Shingles: 
+sim( 1, 6)= 0,81 
+
+5 - Shingles: 
+sim( 1, 7)= 0,00 
+
+5 - Shingles: 
+sim( 1, 8)= 0,00 
+
+5 - Shingles: 
+sim( 1, 9)= 0,00 
+
+5 - Shingles: 
+sim( 1, 10)= 0,00 
+
+5 - Shingles: 
+sim( 2, 3)= 0,00 
+
+5 - Shingles: 
+sim( 2, 4)= 0,00 
+
+5 - Shingles: 
+sim( 2, 5)= 0,00 
+
+5 - Shingles: 
+sim( 2, 6)= 0,00 
+
+5 - Shingles: 
+sim( 2, 7)= 0,00 
+
+5 - Shingles: 
+sim( 2, 8)= 0,00 
+
+5 - Shingles: 
+sim( 2, 9)= 0,00 
+
+5 - Shingles: 
+sim( 2, 10)= 0,00 
+
+5 - Shingles: 
+sim( 3, 4)= 0,00 
+
+5 - Shingles: 
+sim( 3, 5)= 0,00 
+
+5 - Shingles: 
+sim( 3, 6)= 0,00 
+
+5 - Shingles: 
+sim( 3, 7)= 0,00 
+
+5 - Shingles: 
+sim( 3, 8)= 0,00 
+
+5 - Shingles: 
+sim( 3, 9)= 0,00 
+
+5 - Shingles: 
+sim( 3, 10)= 0,00 
+
+5 - Shingles: 
+sim( 4, 5)= 0,00 
+
+5 - Shingles: 
+sim( 4, 6)= 0,00 
+
+5 - Shingles: 
+sim( 4, 7)= 0,00 
+
+5 - Shingles: 
+sim( 4, 8)= 0,00 
+
+5 - Shingles: 
+sim( 4, 9)= 0,00 
+
+5 - Shingles: 
+sim( 4, 10)= 0,00 
+
+5 - Shingles: 
+sim( 5, 6)= 0,00 
+
+5 - Shingles: 
+sim( 5, 7)= 0,00 
+
+5 - Shingles: 
+sim( 5, 8)= 0,00 
+
+5 - Shingles: 
+sim( 5, 9)= 0,00 
+
+5 - Shingles: 
+sim( 5, 10)= 0,00 
+
+5 - Shingles: 
+sim( 6, 7)= 0,00 
+
+5 - Shingles: 
+sim( 6, 8)= 0,00 
+
+5 - Shingles: 
+sim( 6, 9)= 0,00 
+
+5 - Shingles: 
+sim( 6, 10)= 0,00 
+
+5 - Shingles: 
+sim( 7, 8)= 0,00 
+
+5 - Shingles: 
+sim( 7, 9)= 0,00 
+
+5 - Shingles: 
+sim( 7, 10)= 0,00 
+
+5 - Shingles: 
+sim( 8, 9)= 0,00 
+
+5 - Shingles: 
+sim( 8, 10)= 0,13 
+
+5 - Shingles: 
+sim( 9, 10)= 0,00 
+

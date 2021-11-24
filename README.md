@@ -21,4 +21,6 @@ Assignment 3 Hadoop: MapReduce, implementing WordCount, Grep and Inverted Index
 
 Assignment 4 Hadoop: Blocking for entity resolution and Aggregation
 
-Addignment 5 Hadoop: Joins and N-grams
+Assignment 5 Hadoop: Joins and N-grams
+
+Assignment 6 Hadoop: Shingling and Text Similarity in MapReduce

@@ -1,0 +1,31 @@
+First Shingling Input: 
+
+data science is
+an upcoming field
+mathematics and statistics
+is an upcoming
+that combines methods
+computer science mathematics
+methods from computer
+science is an
+field that combines
+combines methods from
+upcoming field that
+from computer science
+science mathematics and
+
+Second Shingling Input: 
+
+from statistics mathematics
+mathematics and computing
+data science is
+together methods from
+an emerging field
+methods from statistics
+emerging field that
+brings together methods
+that brings together
+is an emerging
+statistics mathematics and
+science is an
+field that brings
