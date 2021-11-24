@@ -19,5 +19,6 @@ Assignment 2 Evaluation of Blocking Strategies with Python
 
 Assignment 3 Hadoop: MapReduce, implementing WordCount, Grep and Inverted Index
 
-Assignment4 Hadoop: Blocking for entity resolution and Aggregation
+Assignment 4 Hadoop: Blocking for entity resolution and Aggregation
 
+Addignment 5 Hadoop: Joins and N-grams

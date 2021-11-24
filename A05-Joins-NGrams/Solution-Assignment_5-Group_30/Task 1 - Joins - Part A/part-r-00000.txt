@@ -1,0 +1,16 @@
+id: 20	Name: Tom                     	Posts:	7	AVG: 314,29
+id: 22	Name: Matt MacLean            	Posts:	17	AVG: 1676,47
+id: 23	Name: Jax                     	Posts:	2	AVG: 7800,00
+id: 25	Name: CodingWithoutComments   	Posts:	27	AVG: 7159,26
+id: 26	Name: Shawn                   	Posts:	44	AVG: 725,00
+id: 27	Name: denny                   	Posts:	5	AVG: 1300,00
+id: 29	Name: Michael Haren           	Posts:	4	AVG: 57475,00
+id: 30	Name: Grant                   	Posts:	23	AVG: 2186,96
+id: 32	Name: TimM                    	Posts:	4	AVG: 3300,00
+id: 33	Name: John                    	Posts:	18	AVG: 2900,00
+id: 34	Name: Karl Seguin             	Posts:	38	AVG: 3913,16
+id: 35	Name: Greg Hurlman            	Posts:	57	AVG: 1770,18
+id: 36	Name: Pat                     	Posts:	8	AVG: 1175,00
+id: 37	Name: Wally Lawless           	Posts:	10	AVG: 3620,00
+id: 39	Name: huseyint                	Posts:	15	AVG: 3593,33
+id: 40	Name: Kevin                   	Posts:	28	AVG: 2400,00
